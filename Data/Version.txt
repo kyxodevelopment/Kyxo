@@ -1,1 +1,1 @@
-version_2.0.5
+version_2.0.6
