@@ -139,8 +139,8 @@
                 <Key word="then"/>
                 <Key word="until"/>
                 <Key word="while"/>
-		<Key word="game"/>
-		<Key word="workspace"/>
+		        <Key word="game"/>
+		        <Key word="workspace"/>
             </KeyWords>
 
             <KeyWords name="Values" bold="false" italic="false" color="#BC63C4">
@@ -163,5 +163,18 @@
             </KeyWords>
             
         </RuleSet>
+
+        <RuleSet name = "CommentMarkerSet" ignorecase = "false">
+            <Delimiters>&lt;&gt;~!@%^*()-+=|\#/{}[]:;"' ,	.?</Delimiters>
+            <KeyWords name = "ErrorWords" bold="true" italic="false" color="Red">
+                <Key word = "TODO" />
+                <Key word = "FIXME" />
+            </KeyWords>
+            <KeyWords name = "WarningWords" bold="true" italic="false" color="#EEE0E000">
+                <Key word = "HACK" />
+                <Key word = "UNDONE" />
+            </KeyWords>
+        </RuleSet>
+
     </RuleSets>
 </SyntaxDefinition>
