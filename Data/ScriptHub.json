@@ -1,26 +1,32 @@
 {
     "OwlHub": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
     "OwlHub1": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
     "OwlHub2": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
     "OwlHub3": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
     "OwlHub4": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
     "OwlHub5": {
         "Source": "loadstring(game:HttpGet(\"\"))",
+        "Author": "Unknown",
         "Description": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     }
 }
