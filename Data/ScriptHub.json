@@ -1,16 +1,26 @@
 {
-  "Scripts": [
-    {
-      "Name": "Owl Hub",
-      "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua'))();",
-      "Images": "https://cdn.discordapp.com/attachments/801041477459247165/856042657435877396/Logo.png",
-      "Description": "One of the best hub out there! has 43+ games, with really cool unversal features like esp,aimbot,etc"
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     },
-    {
-      "Name": "Infinite Yield",
-      "Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source',true))()",
-      "Images": "https://infyield.yolasite.com/resources/IY_LOGO_Transparent%20-%20Copy.png.opt500x230o0%2C0s500x230.png",
-      "Description": "Infinite yield is a admin script with a lot of command in it, great for trolling :trol:"
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
+    },
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
+    },
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
+    },
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
+    },
+    "OwlHub": {
+        "Source": "loadstring(game:HttpGet(\"\"))",
+        "Decscription": "Lorem ipsum dolor sit amet, ne mei debet delectus incorrupte. Vis no legimus facilis dissentiunt, graeco alterum fierent ea mea. Ex mea minim legendos complectitur. Prodesset intellegam usu"
     }
-  ]
 }
