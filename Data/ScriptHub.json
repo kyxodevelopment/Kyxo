@@ -1,22 +1,22 @@
 {
 	"Owl Hub": {
 		"Author": "CriShoux & Chrome",
-		"Source": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/OwlHub.txt\"))",
+		"Source": "loadstring(game:HttpGet('https://cdn.wearedevs.net/scripts/OwlHub.txt'))()",
 		"Description": "One of the best legendary script out there hsa 30+ games in one, simple yet but powerful."
 	},
 	"Dex Explorer V2": {
 		"Author": "Moon",
-		"Source": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt\"))",
+		"Source": "loadstring(game:HttpGet('https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt'))()",
 		"Description": "A powerful game explorer GUI. Shows every instance of the game and all their properties. Useful for developers."
 	},
 	"Infinite Yield": {
 		"Author": "Edge",
-		"Source": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))",
+		"Source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
 		"Description": "A beast admin command script. has 100+ command such as fly, tp, btools, etc. great for trolling :trolley:"
 	},
 	"Ez Hub": {
 		"Author": "Ez Industries",
-		"Source": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Ez%20Hub.txt\"))",
+		"Source": "loadstring(game:HttpGet('https://cdn.wearedevs.net/scripts/Ez%20Hub.txt'))()",
 		"Description": "Multi-game/universal script hub, with a simple user interface yet beatiful and clean."
 	}
 }
